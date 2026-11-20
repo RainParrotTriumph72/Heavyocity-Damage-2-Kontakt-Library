@@ -1,0 +1,29 @@
+{
+  "repo": "heavyocity-damage-2-kontakt-library",
+  "product": "Heavyocity Damage 2 Kontakt Library",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "heavyocity-damage-kontakt-library",
+    "heavyocity-damage-kontakt-library-desktop",
+    "heavyocity-damage-kontakt-library-release",
+    "heavyocity-damage-kontakt-library-windows",
+    "disk-utility",
+    "file-management",
+    "windows-utility",
+    "desktop-tools",
+    "pc-maintenance",
+    "system-admin",
+    "hardware-info",
+    "driver-management",
+    "windows-11",
+    "windows-10",
+    "desktop-software"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Heavyocity Damage 2 Kontakt Library"
+}
